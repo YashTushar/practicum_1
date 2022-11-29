@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "965095231519",
+    "project_id": "event-tracker-5af98",
+    "storage_bucket": "event-tracker-5af98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965095231519:android:a7d55d2573742e8212c52a",
+        "android_client_info": {
+          "package_name": "com.example.practicum_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965095231519-9pj5eeonvsqbu2vo7vauqrvg1vm04f7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1qdfgUmTF9tUJFj4hnzJ-ssYj9AFckjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965095231519-9pj5eeonvsqbu2vo7vauqrvg1vm04f7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
