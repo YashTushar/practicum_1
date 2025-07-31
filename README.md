@@ -1,4 +1,11 @@
-# practicum_1
+# Event Reminder
+
+![event](https://github.com/user-attachments/assets/905fffa9-3fb6-40d9-8b00-99ca94a6dd02)
+
+Login Page
+![event2](https://github.com/user-attachments/assets/315b2021-caab-4e2e-bde8-e8ebe8f3bc1c)
+
+
 
 A new Flutter project.
 
